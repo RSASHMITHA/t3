@@ -1,0 +1,123 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  width: 103px;
+  height: 30px;
+}
+.dessert {
+  position: absolute;
+  top: 7px;
+  left: 15.4px;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 72.3px;
+  height: 16px;
+}
+.groupItem,
+.rectangleParent {
+  position: absolute;
+  top: 154px;
+  left: 411px;
+  width: 103px;
+  height: 30px;
+}
+.groupItem {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  width: 67px;
+}
+.robotics {
+  position: absolute;
+  top: 7px;
+  left: 5px;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 57px;
+  height: 16px;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 154px;
+  left: 521px;
+  width: 67px;
+  height: 30px;
+}
+.theFastestFood {
+  position: absolute;
+  top: 406px;
+  left: calc(50% - 152px);
+  font-size: 22px;
+  letter-spacing: 0.05em;
+  font-weight: 800;
+  display: inline-block;
+  width: 280px;
+}
+.firstpageChild {
+  position: absolute;
+  top: 584px;
+  left: calc(50% - 99px);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-teal);
+  width: 198px;
+  height: 63px;
+  cursor: pointer;
+}
+.getStarted {
+  position: absolute;
+  top: 603px;
+  left: calc(50% - 72px);
+  font-size: 24px;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 145px;
+  height: 25px;
+}
+.firstpage {
+  position: absolute;
+  top: calc(50% - 400px);
+  left: calc(50% - 169px);
+  background-color: var(--color-powderblue);
+  width: 360px;
+  height: 800px;
+  overflow: hidden;
+}
+.image3Icon {
+  position: absolute;
+  top: 235px;
+  left: calc(50% - 139px);
+  width: 299px;
+  height: 236px;
+  object-fit: cover;
+}
+.orderWithEase {
+  position: absolute;
+  top: 587px;
+  left: 557px;
+  font-size: 16px;
+  letter-spacing: 0.02em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 340px;
+  height: 32px;
+}
+.desktop1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-teal);
+  font-family: var(--font-inter);
+}
